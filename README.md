@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Brutalyze (log analysis tool) and Silencium (encrypted chatroom)<br><br>🤝 I’m looking to collaborate on cybersecurity, AI, and open-source security tools<br><br>🙋‍♂️ I’m looking for help with advanced encryption techniques & system hardening<br><br>🌱 I’m currently learning cybersecurity, cryptography, and AI applications<br><br>💬 Ask me about software engineering, log analysis, encryption, and system design<br><br>⚡ Fun fact: I treat discipline as non-negotiable—gym 5–6 days/week, no excuses
+🔭 I’m currently working on Brutalyze (log analysis tool) and Silencium (encrypted chatroom)<br><br>🤝 I’m looking to collaborate on cybersecurity, AI, and open-source security tools<br><br>🙋‍♂️ I’m looking for help with advanced encryption techniques & system hardening<br><br>🌱 I’m currently learning cybersecurity, cryptography, and AI applications<br><br>💬 Ask me about software engineering, log analysis, encryption, and system design<br><br>⚡ Fun fact: I treat discipline as non-negotiable—gym 6 days/week, no excuses
 
 
 ## 🌐 Socials:
